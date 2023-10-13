@@ -312,7 +312,7 @@ function TaxiGarage()
             header = Lang:t("menu.boss_menu"),
             txt = "",
             params = {
-                event = "qb-bossmenu:client:forceMenu"
+                event = "qb-bossmenu:client:OpenMenu"
             }
         }
     end
